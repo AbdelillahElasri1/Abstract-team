@@ -1,6 +1,7 @@
-# Abstract team 🎏
+# Abstract team 🤖
 
 @Mahdi Elhajuojy @EL HAKIK Amina @Abdelillah Elasri
+ - 🔗 [Link notion ](https://elhjuojy.notion.site/Abstract-team-8eb4032a378948679c6047e197a7433a) 
 
 # 👩🏼‍🎨 ****Maquettage du site pour l'entreprise 'Artist Time'****
 
@@ -8,17 +9,16 @@
     - **Benchmark adobeXd ,Figma, sketch**
         
         
-        ![Untitled](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/Untitled.png)
-        
         # Comparaison des tendances Google
         
         🔗 [google trends compare](https://trends.google.com/trends/explore?geo=MA&q=adobe%20xd,figma,sketch) 
         
-        ![tools compare.png](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/tools_compare.png)
-        
         # ****Figma vs. Sketch vs. Adobe XD****
         
-        ![banchmark.png](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/banchmark.png)
+        <div style="width:100px">
+        <img  src="https://user-images.githubusercontent.com/86893073/193075320-d06807e6-a626-4b1c-852c-62c71a9f34c9.png" width="400em" /> 
+      
+        </div>
         
         # ****Dois-je apprendre Figma, Sketch ou Adobe XD?****
         
@@ -56,7 +56,7 @@
         
         La conception responsive desgin est une approche de la conception Web qui vise à rendre les pages Web bien sur une variété d’appareils et de tailles de fenêtre ou d’écran de taille minimale à maximale pour assurer la convivialité et la satisfaction.
         
-        ![Untitled](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/Untitled%201.png)
+       
         
     - **UI UX**
         
@@ -83,31 +83,31 @@
             
             - ✒️ Hand-down sketch
                 
-                ![t2-wireframes.jpg](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/t2-wireframes.jpg)
+            
                 
             - 💻Digital wireframe
                 
-                ![wireframe-generic.png](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/wireframe-generic.png)
+               
                 
         - **Maquette**
             
             Le maquettage est une méthode de conception d'interface qui nous permet de vous proposer des interfaces conformes à vos attentes et besoins. Elle permet également à l'agence web de s'assurer que les besoins du client sont adaptés ou non au projet.
             
-            ![31.jpg](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/31.jpg)
+         
             
         - **prototype**
             
             Un outil de prototypage permet au concepteur de tisser des visuels, des éléments de navigation et des interactions pour donner une représentation solide de la façon dont un design se comportera et se sentira. C’est un outil essentiel dans l’arsenal de tout concepteur d’IU/UX.
             
-            ![Overview-updated.jpg.img.png](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/Overview-updated.jpg.img.png)
+           
             
         - **mockup**
             
-            # **Mock up : interactions de l’interface**
+             **Mock up : interactions de l’interface**
             
             Le **mock up** ajoute une dimension interactive au wireframe pour montrer notamment l’enchainement et la navigation entre les pages, le comportement des boutons, l’affichage de messages d’erreur des formulaires, les sliders… Avec le mock up, on va pouvoir vérifier la cohérence du parcours de l’utilisateur et scénariser les interactions avec l’application.
             
-            ![What-Is-a-Mockup-Why-Do-You-Need-One-Thumbnail-v2.jpg](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/What-Is-a-Mockup-Why-Do-You-Need-One-Thumbnail-v2.jpg)
+          
             
     - **Eléments d'ergonomie**
         
